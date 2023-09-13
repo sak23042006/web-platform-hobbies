@@ -1,0 +1,13 @@
+/* element selector */
+h1 {
+  text-align: center;
+}
+/* class selector */
+.display-inline {
+  display: inline-block;
+  padding: 50px;
+}
+h3:hover {
+  background-color: aqua;
+  font-size: x-large;
+}
